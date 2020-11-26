@@ -1,1 +1,1 @@
-# Stereo-Vision-Based-Robotic-Manipulator
+# Stereo Vision Based Robotic Manipulator
