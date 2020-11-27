@@ -26,9 +26,13 @@ The pesudo inverse of the jacobian matrix is used here, thus the model can be ge
 
 
 ## *Inverse Velocity Control of a 3 linkages manipulator*
-The inverse kinematics is only a feedforward algorithm, there is no way to correct for errors. Additionally, inverse kinematics algorithm couldn't incorporate the mass information corresponding to each linkages, and inverse kinematics only provides discrete configuration solution for the arm without considering the velocity of the end effector. In order to avoid jerky motion and to be able to incorporate mass information to decrease controlling effort, inverse velocity algorithm aided by pid control is used here.(to incorporate mass information, the kinetic or potential energy matrix can be optimized based on inverse velocity constrain equation).
+The inverse kinematics is only a feedforward algorithm, there is no way to correct for errors. Additionally, inverse kinematics algorithm couldn't incorporate the mass information corresponding to each linkages, and inverse kinematics only provides discrete configuration solution for the arm without considering the velocity of the end effector. In order to avoid jerky motion and to be able to incorporate mass information to decrease controlling effort, inverse velocity algorithm aided by pid control is used here.(mass information can be incorporate into the algorithm in the future by optimizing the potential energy change and kinematics energy of the manipulator given inverse velocity constrain equation).
+
+To test the eligibility of the inverse velocity algorithm, errors in angles and arms' length measurements are added into the model. The first GIF demonstrate the controlling result with only feedforward components, the second GIF is the path controlling result when the kp and ki components are added.
 
 <p float="left">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/NO_CONTROL.gif" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/WITH_CONTROL.gif" width="45%" height="45%">
 </p>
+
+
