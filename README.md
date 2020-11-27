@@ -26,4 +26,9 @@ The pesudo inverse of the jacobian matrix is used here, thus the model can be ge
 
 
 ## *Inverse Velocity Control of a 3 linkages manipulator*
-Because the inverse kinematics is a feedforward algorithm, there is 
+The inverse kinematics is only a feedforward algorithm, there is no way to correct for errors. Additionally, inverse kinematics algorithm couldn't incorporate the mass information corresponding to each linkages, and inverse kinematics only provides discrete configuration solution for the arm without considering the velocity of the end effector. In order to avoid jerky motion and to be able to incorporate mass information to decrease controlling effort, inverse velocity algorithm aided by pid control is used here.(to incorporate mass information, the kinetic or potential energy matrix can be optimized based on inverse velocity constrain equation).
+
+<p float="left">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/NO_CONTROL.gif" width="45%" height="45%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/WITH_CONTROL.gif" width="45%" height="45%">
+</p>
