@@ -18,7 +18,6 @@
 ## *Inverse Kinematics of a 3 Linkages Manipulator*
 
 <p float="left">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/ELLIPSE.gif" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/SPIRAL.gif" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/HEART.gif" width="45%" height="45%">
 </p>
