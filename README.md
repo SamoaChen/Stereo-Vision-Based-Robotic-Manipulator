@@ -16,10 +16,14 @@
 * ZED camera
 # Simulation
 ## *Inverse Kinematics of a 3 Linkages Manipulator*
-The pesudo inverse of the jacobian matrix is used here, thus the model can be generalized to 4 or more DOFs.
+The pesudo inverse of the jacobian matrix is used here, thus the model can be generalized to 4 or more DOFs. The desired joint angles are solved with numerical Newton Raphson algorithm.
 3D parametric curves are being traced by the end effector of a 3 linkages robotic manipulator in the simulation. The results are shown below
 
 <p float="left">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/SPIRAL.gif" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/HEART.gif" width="45%" height="45%">
 </p>
+
+
+## *Inverse Velocity Control of a 3 linkages manipulator*
+Because the inverse kinematics is a feedforward algorithm, there is 
