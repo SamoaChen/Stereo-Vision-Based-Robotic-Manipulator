@@ -35,4 +35,7 @@ To test the eligibility of the inverse velocity algorithm, errors in angles and 
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/WITH_CONTROL.gif" width="45%" height="45%">
 </p>
 
+# Implementation
+A 3 linkages robotic arm prototype is built for implementing the algorithms mentioned above. The prototype is shown in the following picture
 
+<img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/stereo_robot_arm.JPG" width="80%" height="80%">
