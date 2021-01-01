@@ -45,6 +45,6 @@ A 3 linkages robotic arm prototype is built for implementing the algorithms ment
 The gif on the left demonstrates the simulation of the 3 linkages robotic arm to scale executing a circular path control, the gif on the right demonstrates the circular path control of the actual 3 linkages robotic arm
 
 <p float="left">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/Circular_Path_Control_Simulation.gif" width="45%" height="45%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/Circular_Path_Control_Simulation.gif" width="40%" height="40%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/Circular_Path_Control_Implementation.gif" width="50%" height="50%">
 </p>
