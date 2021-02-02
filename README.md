@@ -3,7 +3,7 @@
 The project is concentrated on designing and creating an arduino based educational robotic arm platform that is flexible with its software and hardware implementation. Two types of hardware design goals, an accurate version and a cheap version, will be implemented.
 
 ## Projected Delieverables
-* Build robotic manipulator that has 4 or more DOFs
+* Build robotic manipulator that has 5 or more DOFs
 * Implement motion planning
 * Implement path control that controls the end-effector twist
 * Detect Objects' position and orientation information (Jenga blocks for this project) with stereo vision camera
