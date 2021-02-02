@@ -13,12 +13,19 @@ The project is concentrated on designing and creating an arduino based education
 
 
 # Main Equipments and Material Used
+## Accurate Version
 * Arbotix-M controller
 * PC
 * 4x Dynamixel ax-12a servo motors
 * FTDI cable
 * 12v power supply
 * ZED camera
+
+## Cheap Version
+* Card Stock
+* Micro Servo
+* Arduino Uno
+
 # Simulation
 ## *Inverse Kinematics of a 3 Linkages Manipulator*
 The pseudo inverse of the jacobian matrix is used here, thus the model can be generalized to 4 or more DOFs. The desired joint angles are solved with the numerical Newton Raphson algorithm.
