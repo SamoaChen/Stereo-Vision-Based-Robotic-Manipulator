@@ -48,6 +48,7 @@ To test the eligibility of the inverse velocity algorithm, errors in angles and 
 </p>
 
 # Prototype Implementation for Accurate Hardware Design
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
 A 3 linkages robotic arm prototype is built for implementing the algorithms mentioned above. The prototype is shown in the following picture. Given the currently limited manufacturing methods accessibility, the prototype is built out of chopsticks and zip ties.
 
 <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/stereo_robot_arm.JPG" width="80%" height="80%">
