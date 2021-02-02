@@ -1,6 +1,6 @@
 # Stereo Vision Based Robotic Manipulator
 ## Projected Goal
-The project is concentrated on designing and creating an arduino based educational robotic arm platform that is flexible with its software and hardware implementation. Two types of hardware design goals, an accurate version and a cheap version, will be implemented.
+The project is concentrated on designing and implementing an arduino based educational robotic arm platform that is flexible with its software and hardware implementation. Two types of hardware design goals, an accurate version and a cheap version, will be implemented.
 
 ## Projected Delieverables
 * Build robotic manipulator that has 5 or more DOFs
