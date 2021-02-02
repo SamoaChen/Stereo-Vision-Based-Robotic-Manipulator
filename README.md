@@ -64,3 +64,9 @@ The gif on the left demonstrates the simulation of the 3 linkages robotic arm to
 </p>
 
 ## Cheap Hardware Design
+
+<p float="left">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_pattern_design.gif" width="40%" height="40%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_first_arm.gif" width="53%" height="53%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_assembled.gif" width="53%" height="53%">
+</p>
