@@ -64,7 +64,7 @@ The gif on the left demonstrates the simulation of the 3 linkages robotic arm to
 </p>
 
 ## Cheap Hardware Design
-To cut down the manufacturing price and to make the assembling process easier, the arm is built from paper stock and can be folded from a 2D pattern (cardboard will be used in future implementation). The picutre below on the left the the 2d pattern designed for one component 
+To cut down the manufacturing price and to make the assembling process easier, the arm is built from paper stock and can be folded from a 2D pattern with the help of locking mechanism (cardboard will be used in future implementation). An example for the 2D pattern is shown in the picture on the left. An example of an assembled linkage and an assembled arm is shown in the middle and the right picture respectively. 
 
 <p float="left">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_pattern_design.jpg" width="30%" height="30%">
