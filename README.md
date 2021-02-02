@@ -27,7 +27,7 @@ The project is concentrated on designing and creating an arduino based education
 * Arduino Uno
 
 # Simulation
-## *Inverse Kinematics of a 3 Linkages Manipulator*
+## Inverse Kinematics of a 3 Linkages Manipulator
 The pseudo inverse of the jacobian matrix is used here, thus the model can be generalized to 4 or more DOFs. The desired joint angles are solved with the numerical Newton Raphson algorithm.
 3D parametric curves are being traced by the end effector of a 3 linkages robotic manipulator in the simulation. The results are shown below (The green curves are the desired path)
 
@@ -37,7 +37,7 @@ The pseudo inverse of the jacobian matrix is used here, thus the model can be ge
 </p>
 
 
-## *Inverse Velocity Control of a 3 linkages manipulator*
+## Inverse Velocity Control of a 3 linkages manipulator
 The inverse kinematics is only a feedforward algorithm, there is no way to correct for errors. Additionally, the inverse kinematics algorithm couldn't incorporate the mass information corresponding to each linkage, and inverse kinematics only provides a discrete configuration solution for the arm without considering the velocity of the end effector. In order to avoid jerky motion and to be able to incorporate mass information to decrease controlling effort, an inverse velocity algorithm aided by PID control is used here.(mass information can be incorporated into the algorithm in the future by optimizing the potential energy change and kinematics energy of the manipulator given inverse velocity constrain equation).
 
 To test the eligibility of the inverse velocity algorithm, errors in angles and arms' length measurements are added into the model. The first GIF demonstrates the controlling result with only feedforward components, the second GIF is the path controlling result when the kp and ki components are added. (The green curves are the desired path and the blue curve is the actual end-effector trajectory)
@@ -52,7 +52,7 @@ A 3 linkages robotic arm prototype is built for implementing the algorithms ment
 
 <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/stereo_robot_arm.JPG" width="80%" height="80%">
 
-## *Inverse Velocity Control implementation of a 3 linkages manipulator*
+## Inverse Velocity Control implementation of a 3 linkages manipulator
 
 The gif on the left demonstrates the simulation of the 3 linkages robotic arm to scale executing a circular path control, the gif on the right demonstrates the circular path control of the actual 3 linkages robotic arm
 
