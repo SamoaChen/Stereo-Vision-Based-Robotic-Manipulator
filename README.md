@@ -72,3 +72,9 @@ To cut down the manufacturing cost and to make the assembling process easier, th
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_assembled.jpg" width="25%" height="25%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_5dof_robot.jpg" width="21.4%" height="21.4%">
 </p>
+
+# Final Implementation
+## Accurate Hardware Design
+
+A 3 linkages 5 DOFs robot arm with suction cup is built. The arm is shown in the picture below.
+<img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/5dof_robot.jpg" width="80%" height="80%">
