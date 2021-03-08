@@ -70,5 +70,5 @@ To cut down the manufacturing cost and to make the assembling process easier, th
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_pattern_design.jpg" width="30%" height="30%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_first_arm.jpg" width="30%" height="30%">
    <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_assembled.jpg" width="30%" height="30%">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/5dof_paper_robot.jpg" width="30%" height="30%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_5dof_robot.jpg" width="30%" height="30%">
 </p>
