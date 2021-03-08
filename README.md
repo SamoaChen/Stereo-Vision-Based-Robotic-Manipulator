@@ -67,8 +67,8 @@ The gif on the left demonstrates the simulation of the 3 linkages robotic arm to
 To cut down the manufacturing cost and to make the assembling process easier, the arm is built out of paper stock and can be folded from a 2D pattern with the help of locking mechanisms (cardboard will be used in future implementation). An example for the 2D pattern is shown in the picture on the left. An example of an assembled linkage and an assembled arm is shown in the middle and the right picture respectively.
 
 <p float="left">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_pattern_design.jpg" width="30%" height="30%">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_first_arm.jpg" width="30%" height="30%">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_assembled.jpg" width="30%" height="30%">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_5dof_robot.jpg" width="30%" height="30%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_pattern_design.jpg" width="25%" height="25%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_first_arm.jpg" width="25%" height="25%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_arm_assembled.jpg" width="25%" height="25%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/paper_5dof_robot.jpg" width="25%" height="25%">
 </p>
