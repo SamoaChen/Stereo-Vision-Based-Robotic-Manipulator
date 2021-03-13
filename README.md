@@ -78,6 +78,6 @@ To cut down the manufacturing cost and to make the assembling process easier, th
 
 A 3 linkages 5 DOFs robot arm with suction cup is built. The arm is shown in the picture below.
 <p float="left">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/5dof_robot.jpg" width="48%" height="48%">
-   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/block_picking.gif?raw=true" width="48%" height="48%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/5dof_robot.jpg" width="48.2%" height="48.2%">
+   <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/block_picking.gif?raw=true" width="48.2%" height="48.2%">
 </p>
