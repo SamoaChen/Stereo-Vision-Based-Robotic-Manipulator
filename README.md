@@ -54,7 +54,7 @@ A 3 linkages robotic arm prototype is built for implementing the algorithms ment
 
 <img src="https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/image/stereo_robot_arm.JPG" width="80%" height="80%">
 
-### Inverse Velocity Control implementation of a 3 linkages manipulator
+### Inverse Velocity Feedback Control implementation of a 3 linkages manipulator
 
 The gif on the left demonstrates the simulation of the 3 linkages robotic arm to scale executing a circular path control, the gif on the right demonstrates the circular path control of the actual 3 linkages robotic arm
 
